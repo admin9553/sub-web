@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://subweb-heroku.yunbai.workers.dev/sub?" }],
+        backendOptions: [{ value: "https://lucky-fog-0069.jin4333222288887163com.workers.dev/sub?" }],
         remoteConfig: [
         {
             label: "ACL4SSR",
